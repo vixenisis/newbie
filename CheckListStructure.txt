@@ -1,0 +1,16 @@
+Registartion
+	email
+	social media
+	field validation
+Autorization
+	User activated
+	User not activated
+	Restore password
+	Field Validation
+Profile
+	Change name
+	Change email
+	Change password
+	Field validation
+	Membership/Subscription
+	Delete account
